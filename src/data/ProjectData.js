@@ -15,8 +15,8 @@ export const ProjectList = [
     title: "Portfolio",
     description: "Ofcourse i made my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/piyush425/Portfolio",
+    demo_url: "https://github.com/piyush425/Portfolio",
   },
   {
     img: "https://user-images.githubusercontent.com/78302050/136701651-84637d4f-50e3-427f-ac85-e92636d23faf.jpeg",
